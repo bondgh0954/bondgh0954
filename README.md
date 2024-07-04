@@ -5,7 +5,7 @@
 - <b>Cloud & Infrastructure as Service Basics</b>
   - [Create server and deploy appication on DigitalOcean](https://github.com/bondgh0954/Devops_DemoProject_cloud.git)
 - <b>Artifact Repository Manager with Nexus</b>
-  - [Run Nexus on Droplet and Publish Artifact to Nexus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Run Nexus on Droplet and Publish Artifact to Nexus](https://github.com/bondgh0954/Devops-Project-Nexus.git) 
 - <b>Containers with Docker</b>
   - [Use Docker for local development](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Docker Compose- Run multiple Docker containers](https://github.com/joshmadakor1/Sentinel-Lab)  
