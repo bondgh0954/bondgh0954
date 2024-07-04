@@ -16,7 +16,7 @@
   - [Deploy Nexus as Docker container](https://github.com/joshmadakor1/Sentinel-Lab)
   
 - <b>Build Automation & CI/CD with Jenkins</b>
-  - [Install Jenkins on DigitalOcean](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Install Jenkins on DigitalOcean](https://github.com/bondgh0954/Jenkins-DemoProject1.git)
   - [Create a CI Pipeline with Jenkinsfile(Freestyle,Pipeline,Multibranch pipeline)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Create a Jenkins Shared Library](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Configure Webhook to trigger CI pipeline automatically on every change](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
