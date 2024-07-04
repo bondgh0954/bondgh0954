@@ -22,7 +22,7 @@
   - [Configure Webhook to trigger CI pipeline automatically on every change](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Dynamically Increment Application version in Jenkins Pipeline](https://github.com/bondgh0954/jenkins-incrementVersion.git)
 - <b>AWS Services</b>
-  - [Deploy Web Application on EC2 Instance (manually)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Deploy Web Application on EC2 Instance (manually)](https://github.com/bondgh0954/aws-project1.git)
   - [CD - Deploy Application from Jenkins Pipeline to EC2 instance(automatically with docker)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [CD - Deploy Application from Jenkins Pipeline on EC2 Instance(automatically with docker-compose)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Complete CI/CD Pipeline(Docker-Compose,Dynamic versioning](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
