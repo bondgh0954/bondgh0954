@@ -28,7 +28,7 @@
   - [Complete CI/CD Pipeline(Docker-Compose,Dynamic versioning](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Interacting with AWS CLI](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Container Orchestration with Kubernetes</b>
-  - [Deploy MongoDB and Mongo Express into local K8s cluster](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Deploy MongoDB and Mongo Express into local K8s cluster](https://github.com/bondgh0954/Kubernetes_Project1.git)
     
 
 <h2> 🤳 Connect with me:</h2>
