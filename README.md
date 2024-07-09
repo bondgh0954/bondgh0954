@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Devops Engineer Projects:</h2>
 
 - <b>Cloud & Infrastructure as Service Basics</b>
-  - [Create server and deploy appication on DigitalOcean](https://github.com/bondgh0954/Devops_DemoProject_cloud.git)
+  - [Create server and deploy application on DigitalOcean](https://github.com/bondgh0954/Devops_DemoProject_cloud.git)
 - <b>Artifact Repository Manager with Nexus</b>
   - [Run Nexus on Droplet and Publish Artifact to Nexus](https://github.com/bondgh0954/Devops-Project-Nexus.git) 
 - <b>Containers with Docker</b>
