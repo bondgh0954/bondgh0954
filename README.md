@@ -7,28 +7,29 @@
 - <b>Artifact Repository Manager with Nexus</b>
   - [Run Nexus on Droplet and Publish Artifact to Nexus](https://github.com/bondgh0954/Devops-Project-Nexus.git) 
 - <b>Containers with Docker</b>
-  - [Use Docker for local development](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Docker Compose- Run multiple Docker containers](https://github.com/joshmadakor1/Sentinel-Lab)  
-  - [Dockerize Nodejs application and push to private Docker registry](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Deploy Docker application on a server with Docker compose](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Persist data with Docker Volumes](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Create Docker repository on Nexus and push to it ](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Deploy Nexus as Docker container](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Use Docker for local development](https://)
+  - [Docker Compose- Run multiple Docker containers](https://)  
+  - [Dockerize Nodejs application and push to private Docker registry](https://)
+  - [Deploy Docker application on a server with Docker compose](https://)
+  - [Persist data with Docker Volumes](https://)
+  - [Create Docker repository on Nexus and push to it ](https://)
+  - [Deploy Nexus as Docker container](https://)
   
 - <b>Build Automation & CI/CD with Jenkins</b>
   - [Install Jenkins on DigitalOcean](https://github.com/bondgh0954/Jenkins-DemoProject1.git)
   - [Create a CI Pipeline with Jenkinsfile(Freestyle,Pipeline,Multibranch pipeline)](https://github.com/bondgh0954/jenkins-DemoProject2.git)
   - [Create a Jenkins Shared Library](https://github.com/bondgh0954/Jenkins-DemoProject-SharedLibrary.git)
-  - [Configure Webhook to trigger CI pipeline automatically on every change](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configure Webhook to trigger CI pipeline automatically on every change](https://)
   - [Dynamically Increment Application version in Jenkins Pipeline](https://github.com/bondgh0954/jenkins-incrementVersion.git)
 - <b>AWS Services</b>
   - [Deploy Web Application on EC2 Instance(manually)](https://github.com/bondgh0954/DevopsProject-AWS1.git)
   - [CD - Deploy Application from Jenkins Pipeline to EC2 instance(automatically with docker)](https://github.com/bondgh0954/AWSProject2-deployment.git)
-  - [CD - Deploy Application from Jenkins Pipeline on EC2 Instance(automatically with docker-compose)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Complete CI/CD Pipeline(Docker-Compose,Dynamic versioning](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Interacting with AWS CLI](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [CD - Deploy Application from Jenkins Pipeline on EC2 Instance(automatically with docker-compose)](https://)
+  - [Complete CI/CD Pipeline(Docker-Compose,Dynamic versioning](https://)
+  - [Interacting with AWS CLI](https://)
 - <b>Container Orchestration with Kubernetes</b>
   - [Deploy MongoDB and Mongo Express into local K8s cluster](https://github.com/bondgh0954/Kubernetes_Project1.git)
+  -  [Deploy Mosquitto message broker with configMap and Secret Volume Types](https://)
     
 
 <h2> 🤳 Connect with me:</h2>
