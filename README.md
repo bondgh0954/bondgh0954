@@ -29,8 +29,9 @@
   - [Interacting with AWS CLI](https://)
 - <b>Container Orchestration with Kubernetes</b>
   - [Deploy MongoDB and Mongo Express into local K8s cluster](https://github.com/bondgh0954/Kubernetes_Project1.git)
-  -  [Deploy Mosquitto message broker with configMap and Secret Volume Types](https://github.com/bondgh0954/Kubernetes_Project2.git)
-    
+  - [Deploy Mosquitto message broker with configMap and Secret Volume Types](https://github.com/bondgh0954/Kubernetes_Project2.git)
+  - [Deploy Mosquitto message broker with configMap and Secret Volume Types]( https://github.com/bondgh0954/kubernetes-project3.git)
+   
 
 <h2> 🤳 Connect with me:</h2>
 
