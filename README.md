@@ -36,7 +36,7 @@
   - [Create Helm Chart for Microservice app](https://github.com/bondgh0954/Kubernetes-project6.git)
   - [Kubernetes project exercise](https://github.com/bondgh0954/Kubernetes-exercise.git)
 - <b>Kubernetes on AWS-EKS</b>
-  - [Kubernetes project exercise](https://github.com/bondgh0954/AWS-EKS-project1.git)
+  - [Create AWS EKS cluster with Node Group](https://github.com/bondgh0954/AWS-EKS-project1.git)
    
 
 <h2> 🤳 Connect with me:</h2>
