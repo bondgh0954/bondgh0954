@@ -35,6 +35,8 @@
   - [Deploy Microservice application in kubernetes with Production & security best Practices](https://github.com/bondgh0954/Kubernetes-project5.git)
   - [Create Helm Chart for Microservice app](https://github.com/bondgh0954/Kubernetes-project6.git)
   - [Kubernetes project exercise](https://github.com/bondgh0954/Kubernetes-exercise.git)
+- <b>Kubernetes on AWS-EKS</b>
+  - [Kubernetes project exercise]()
    
 
 <h2> 🤳 Connect with me:</h2>
