@@ -37,12 +37,12 @@
   - [Kubernetes project exercise](https://github.com/bondgh0954/Kubernetes-exercise.git)
 - <b>Kubernetes on AWS-EKS</b>
   - [Create AWS EKS cluster with Node Group](https://github.com/bondgh0954/AWS-EKS-project1.git)
-  - [Create EKS cluster with Fargate profile]()
-  - [Create EKS cluster with eksctl]()
-  - [CD -Deploy to EKS cluster from jenkins pipeline]()
-  - [CD - Deploy to LKE cluster from jenkins pipeline]()
-  - [Complete CI/CD pipeline with EKS and private DockerHub registry]()
-  - [Complete CI/CD pipeline with EKS and AWS ECR]()
+  - [Create EKS cluster with Fargate profile](https://github.com/bondgh0954/AWS-EKS-project2.git)
+  - [Create EKS cluster with eksctl](https://github.com/bondgh0954/AWS-EKS-project3.git)
+  - [CD -Deploy to EKS cluster from jenkins pipeline](https://github.com/bondgh0954/AWS-EKS-project4.git)
+  - [CD - Deploy to LKE cluster from jenkins pipeline](https://github.com/bondgh0954/AWS-EKS-project5.git)
+  - [Complete CI/CD pipeline with EKS and private DockerHub registry](https://github.com/bondgh0954/AWS-EKS-project6.git)
+  - [Complete CI/CD pipeline with EKS and AWS ECR](https://github.com/bondgh0954/AWS-EKS-project7.git)
 
 <h2> 🤳 Connect with me:</h2>
 
