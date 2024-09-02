@@ -43,6 +43,12 @@
   - [CD - Deploy to LKE cluster from jenkins pipeline](https://github.com/bondgh0954/AWS-EKS-project5.git)
   - [Complete CI/CD pipeline with EKS and private DockerHub registry](https://github.com/bondgh0954/AWS-EKS-project6.git)
   - [Complete CI/CD pipeline with EKS and AWS ECR](https://github.com/bondgh0954/AWS-EKS-project7.git)
+- <b>Infrastructure as Code with Terraform</b>
+  - [Automate AWS Infrastructure]()
+  - [Modularize Project]()
+  - [Terraform & AWS EKS]()
+  - [Configure a Shared Remote State]()
+  - [Complete CI/CD with Terraform]()
 
 <h2> 🤳 Connect with me:</h2>
 
