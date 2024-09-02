@@ -44,7 +44,7 @@
   - [Complete CI/CD pipeline with EKS and private DockerHub registry](https://github.com/bondgh0954/AWS-EKS-project6.git)
   - [Complete CI/CD pipeline with EKS and AWS ECR](https://github.com/bondgh0954/AWS-EKS-project7.git)
 - <b>Infrastructure as Code with Terraform</b>
-  - [Automate AWS Infrastructure]()
+  - [Automate AWS Infrastructure](https://github.com/bondgh0954/terraform_project1.git)
   - [Modularize Project]()
   - [Terraform & AWS EKS]()
   - [Configure a Shared Remote State]()
