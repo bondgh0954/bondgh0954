@@ -50,7 +50,7 @@
   - [Configure a Shared Remote State]()
   - [Complete CI/CD with Terraform]()
 - <b>Programming with python</b>
-  -[write countdown application](https://github.com/bondgh0954/Iaac_terraform_1.git)
+  -[write countdown application](https://github.com/bondgh0954/python_project_cont.git)
 
 <h2> 🤳 Connect with me:</h2>
 
