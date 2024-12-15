@@ -52,6 +52,7 @@
 - <b>Programming with python</b>
   - [write countdown application](https://github.com/bondgh0954/python_project_cont.git)
   - [EC2 Status check](https://github.com/bondgh0954/health_check.git)
+  - [Automate configuring EC2 Server Instances]()
 
 <h2> 🤳 Connect with me:</h2>
 
